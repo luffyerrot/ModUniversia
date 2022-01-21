@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "niveaux=0": { "model": "universia:tami_plein/cobble/tami_plein_0"},
+    "niveaux=1": { "model": "universia:tami_plein/cobble/tami_plein_1"},
+    "niveaux=2": { "model": "universia:tami_plein/cobble/tami_plein_2"},
+    "niveaux=3": { "model": "universia:tami_plein/cobble/tami_plein_3"},
+    "niveaux=4": { "model": "universia:tami_plein/cobble/tami_plein_4"},
+    "niveaux=5": { "model": "universia:tami_plein/cobble/tami_plein_5"},
+    "niveaux=6": { "model": "universia:tami_plein/cobble/tami_plein_6"}
+  }
+}

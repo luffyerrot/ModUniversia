@@ -1,0 +1,7 @@
+{
+	"type": "CTM",
+	"textures": [
+		"blocks/futur_br",
+		"./futur_br"
+	]
+}

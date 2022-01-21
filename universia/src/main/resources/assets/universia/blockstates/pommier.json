@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "couche=0": { "model": "universia:pommier0"},
+    "couche=1": { "model": "universia:pommier1"},
+    "couche=2": { "model": "universia:pommier2"}
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "universia:amethyst_stonebrick_half_slab" },
+        "half=top,variant=default": { "model": "universia:amethyst_stonebrick_upper_slab" }
+    }
+}

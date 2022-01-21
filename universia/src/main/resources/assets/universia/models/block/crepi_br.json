@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "universia:blocks/crepi_br"
+  },
+  "ctm": {
+    "model": { "model": "cube" },
+    "face": "universia:ctm/crepi_br.cf"
+  }
+}

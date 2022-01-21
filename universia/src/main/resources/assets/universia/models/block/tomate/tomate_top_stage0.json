@@ -1,0 +1,7 @@
+{
+    "parent": "universia:block/crop_tuteur",
+    "textures": {
+        "crop": "universia:blocks/tomate_crop/tomate_crop_up_0",
+        "tuteur": "minecraft:blocks/planks_oak"
+    }
+}

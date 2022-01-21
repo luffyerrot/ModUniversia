@@ -1,0 +1,13 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+
+    "particle":"universia:blocks/imprimante",
+    "up": "universia:blocks/imprimante_up_on",
+    "north": "universia:blocks/imprimante_face_on",
+    "east": "universia:blocks/imprimante",
+    "south": "universia:blocks/imprimante",
+    "west": "universia:blocks/imprimante",
+    "down": "universia:blocks/imprimante"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end":"blocks/log_spruce_top",
+    "side": "universia:blocks/spruce_br"
+  },
+  "ctm": {
+    "model": { "model": "cube" },
+    "face": "universia:ctm/spruce_br.cf",
+    "overrides":{
+      "UP":"universia:ctm/spruce_br_top.cf",
+      "DOWN":"universia:ctm/spruce_br_top.cf"
+    }
+  }
+}

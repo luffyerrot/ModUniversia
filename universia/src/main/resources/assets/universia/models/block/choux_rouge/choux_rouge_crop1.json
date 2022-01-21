@@ -1,0 +1,7 @@
+{
+    "parent": "universia:block/crop_salade/crop_salade_petit",
+    "textures": {
+        "coeur": "universia:blocks/choux_rouge_crop/coeur0",
+        "feuille1": "universia:blocks/choux_rouge_crop/feuille1"
+    }
+}

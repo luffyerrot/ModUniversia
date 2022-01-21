@@ -1,0 +1,8 @@
+{
+    "parent": "universia:block/crop_salade/crop_salade_grand",
+    "textures": {
+        "coeur": "universia:blocks/salade_crop/coeur2",
+        "feuille1": "universia:blocks/salade_crop/feuille4",
+        "feuille2": "universia:blocks/salade_crop/feuille4"
+    }
+}

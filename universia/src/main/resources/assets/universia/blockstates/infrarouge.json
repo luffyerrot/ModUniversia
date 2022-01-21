@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=up":    { "model": "universia:infrarouge", "x": 180 },
+    "facing=down":  { "model": "universia:infrarouge" },
+    "facing=east":  { "model": "universia:infrarouge", "x": 90, "y": 270 },
+    "facing=west":  { "model": "universia:infrarouge", "x": 90, "y": 90 },
+    "facing=south": { "model": "universia:infrarouge", "x": 90 },
+    "facing=north": { "model": "universia:infrarouge", "x": 90, "y": 180 }
+  }
+}

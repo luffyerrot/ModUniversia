@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:slabgoudron_passage_p_b", "y": 180 },
+    "facing=south": { "model": "universia:slabgoudron_passage_p_b" },
+    "facing=west": { "model": "universia:slabgoudron_passage_p_b", "y": 90 },
+    "facing=east": { "model": "universia:slabgoudron_passage_p_b", "y": 270 }
+  }
+}

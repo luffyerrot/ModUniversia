@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DDD",
+    "DDD"
+  ],
+  "key": {
+    "D": 
+	    {
+        "item": "universia:fragment_gravier"
+        }
+  },
+  "result": {
+    "item": "minecraft:sand",
+     "data": 0
+  }
+}

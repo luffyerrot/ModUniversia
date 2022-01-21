@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:generateur" },
+    "facing=south": { "model": "universia:generateur", "y": 180 },
+    "facing=west": { "model": "universia:generateur", "y": 270},
+    "facing=east": { "model": "universia:generateur", "y": 90 }
+  }
+}

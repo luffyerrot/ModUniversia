@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:slabgoudron_cote_g_plein_bis_bj", "y": 180 },
+    "facing=south": { "model": "universia:slabgoudron_cote_g_plein_bis_bj" },
+    "facing=west": { "model": "universia:slabgoudron_cote_g_plein_bis_bj", "y": 90 },
+    "facing=east": { "model": "universia:slabgoudron_cote_g_plein_bis_bj", "y": 270 }
+  }
+}

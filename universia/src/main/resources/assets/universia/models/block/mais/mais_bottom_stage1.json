@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/crop",
+    "textures": {
+        "crop": "universia:blocks/mais_crop/mais_crop_down_1"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:conteneurenergie" },
+    "facing=south": { "model": "universia:conteneurenergie", "y": 180 },
+    "facing=west": { "model": "universia:conteneurenergie", "y": 270},
+    "facing=east": { "model": "universia:conteneurenergie", "y": 90 }
+  }
+}

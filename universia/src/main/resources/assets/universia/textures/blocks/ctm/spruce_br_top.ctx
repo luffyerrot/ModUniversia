@@ -1,0 +1,7 @@
+{
+	"type": "CTM",
+	"textures": [
+		"blocks/spruce_br_top",
+		"./spruce_br_top"
+	]
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:blockgoudron_double_cote_centre_plein_bj", "y": 180 },
+    "facing=south": { "model": "universia:blockgoudron_double_cote_centre_plein_bj" },
+    "facing=west": { "model": "universia:blockgoudron_double_cote_centre_plein_bj", "y": 90 },
+    "facing=east": { "model": "universia:blockgoudron_double_cote_centre_plein_bj", "y": 270 }
+  }
+}

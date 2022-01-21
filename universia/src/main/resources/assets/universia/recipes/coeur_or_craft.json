@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C"
+  ],
+  "key": {
+    "C": 
+	    {
+        "item": "universia:coeur_or"
+        }
+  },
+  "result": {
+    "item": "minecraft:gold_nugget",
+    "count": 4
+  }
+}

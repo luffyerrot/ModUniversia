@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "age=0": { "model": "universia:salade/salade_crop0" },
+        "age=1": { "model": "universia:salade/salade_crop1" },
+        "age=2": { "model": "universia:salade/salade_crop2" },
+        "age=3": { "model": "universia:salade/salade_crop3" },
+        "age=4": { "model": "universia:salade/salade_crop4" },
+        "age=5": { "model": "universia:salade/salade_crop5" }
+    }
+}

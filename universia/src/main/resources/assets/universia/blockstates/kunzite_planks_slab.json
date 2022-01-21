@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "universia:kunzite_planks_half_slab" },
+        "half=top,variant=default": { "model": "universia:kunzite_planks_upper_slab" }
+    }
+}

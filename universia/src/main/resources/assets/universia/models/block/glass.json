@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "universia:blocks/glass"
+  },
+  "ctm": {
+    "model": { "model": "cube" },
+    "face": "universia:ctm/glass.cf"
+  }
+}

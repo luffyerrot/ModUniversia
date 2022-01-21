@@ -1,0 +1,45 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cross"
+  },
+  "variants": {
+    "age": {
+      "0": {
+        "textures": {
+          "cross": "universia:blocks/oignons_rouge_crop/oignons_rouge_crop0"
+        }
+      },
+      "1": {
+        "textures": {
+          "cross": "universia:blocks/oignons_rouge_crop/oignons_rouge_crop1"
+        }
+      },
+      "2": {
+        "textures": {
+          "cross": "universia:blocks/oignons_rouge_crop/oignons_rouge_crop2"
+        }
+      },
+      "3": {
+        "textures": {
+          "cross": "universia:blocks/oignons_rouge_crop/oignons_rouge_crop3"
+        }
+      },
+      "4": {
+        "textures": {
+          "cross": "universia:blocks/oignons_rouge_crop/oignons_rouge_crop4"
+        }
+      },
+      "5": {
+        "textures": {
+          "cross": "universia:blocks/oignons_rouge_crop/oignons_rouge_crop5"
+        }
+      },
+      "6": {
+        "textures": {
+          "cross": "universia:blocks/oignons_rouge_crop/oignons_rouge_crop6"
+        }
+      }
+    }
+  }
+}

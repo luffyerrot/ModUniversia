@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPG",
+    "PEP",
+    "III"
+  ],
+  "key": {
+    "E": {
+      "item": "universia:fiol_essence"
+    },
+    "P": {
+      "item": "universia:papier_plastique"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "flansmod:fuelcan"
+  }
+}

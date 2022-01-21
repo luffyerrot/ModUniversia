@@ -1,0 +1,7 @@
+{
+	"type": "CTM",
+	"textures": [
+		"blocks/jungle_br_top",
+		"./jungle_br_top"
+	]
+}

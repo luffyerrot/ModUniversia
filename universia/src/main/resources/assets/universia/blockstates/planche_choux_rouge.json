@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:planche_choux_rouge", "y": 180 },
+    "facing=south": { "model": "universia:planche_choux_rouge" },
+    "facing=west": { "model": "universia:planche_choux_rouge", "y": 90 },
+    "facing=east": { "model": "universia:planche_choux_rouge", "y": 270 }
+  }
+}

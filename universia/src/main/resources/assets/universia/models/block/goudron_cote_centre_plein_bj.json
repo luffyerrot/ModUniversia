@@ -1,0 +1,23 @@
+{"parent": "block/cube_all",
+  "textures": {
+    "particle": "universia:blocks/goudron",
+    "0": "universia:blocks/goudron_cote_centre_plein_bj",
+    "1": "universia:blocks/goudron",
+    "2": "universia:blocks/goudron_decale_bjv2"
+  },
+  "elements": [
+    {
+      "name": "Cube",
+      "from": [ 0.0, 0.0, 0.0 ],
+      "to": [ 16.0, 14.0, 16.0 ],
+      "faces": {
+        "north": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 14.0 ] },
+        "east": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 14.0 ] },
+        "south": { "texture": "#2", "uv": [ 0.0, 0.0, 16.0, 14.0 ] },
+        "west": { "texture": "#2", "uv": [ 0.0, 0.0, 16.0, 14.0 ] , "rotation": 180},
+        "up": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+        "down": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
+      }
+    }
+  ]
+}

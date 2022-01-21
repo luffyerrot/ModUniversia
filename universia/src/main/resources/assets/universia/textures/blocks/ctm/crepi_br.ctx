@@ -1,0 +1,7 @@
+{
+	"type": "CTM",
+	"textures": [
+		"blocks/crepi_br",
+		"./crepi_br"
+	]
+}

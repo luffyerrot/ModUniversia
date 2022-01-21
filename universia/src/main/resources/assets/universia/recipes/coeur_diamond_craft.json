@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C"
+  ],
+  "key": {
+    "C": 
+	    {
+        "item": "universia:coeur_diamand"
+        }
+  },
+  "result": {
+    "item": "universia:diamond_nugget",
+    "count": 4
+  }
+}

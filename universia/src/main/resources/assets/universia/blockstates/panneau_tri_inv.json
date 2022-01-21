@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:panneau_tri_inv", "y": 180 },
+    "facing=south": { "model": "universia:panneau_tri_inv" },
+    "facing=west": { "model": "universia:panneau_tri_inv", "y": 90 },
+    "facing=east": { "model": "universia:panneau_tri_inv", "y": 270 }
+  }
+}

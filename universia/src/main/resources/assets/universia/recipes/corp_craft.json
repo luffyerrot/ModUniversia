@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VFF",
+    "TB ",
+    "B  "
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:iron_bars"
+    },
+    "T": {
+      "item": "minecraft:lever"
+    },
+    "V": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "universia:corp"
+  }
+}

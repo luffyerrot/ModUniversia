@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "universia:blocks/or_noire_stonebrick",
+        "top": "universia:blocks/or_noire_stonebrick",
+        "side": "universia:blocks/or_noire_stonebrick"
+    }
+}

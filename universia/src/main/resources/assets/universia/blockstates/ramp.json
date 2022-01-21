@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:ramp", "y": 180 },
+    "facing=south": { "model": "universia:ramp" },
+    "facing=west": { "model": "universia:ramp", "y": 90 },
+    "facing=east": { "model": "universia:ramp", "y": 270 }
+  }
+}

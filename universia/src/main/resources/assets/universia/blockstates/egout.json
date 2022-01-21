@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=north,half=bottom,open=false": { "model": "universia:egout/egout_bottom" },
+        "facing=south,half=bottom,open=false": { "model": "universia:egout/egout_bottom" },
+        "facing=east,half=bottom,open=false": { "model": "universia:egout/egout_bottom" },
+        "facing=west,half=bottom,open=false": { "model": "universia:egout/egout_bottom" },
+        "facing=north,half=top,open=false": { "model": "universia:egout/egout_top" },
+        "facing=south,half=top,open=false": { "model": "universia:egout/egout_top" },
+        "facing=east,half=top,open=false": { "model": "universia:egout/egout_top" },
+        "facing=west,half=top,open=false": { "model": "universia:egout/egout_top" },
+        "facing=north,half=bottom,open=true": { "model": "universia:egout/egout_open_bottom" },
+        "facing=south,half=bottom,open=true": { "model": "universia:egout/egout_open_bottom"},
+        "facing=east,half=bottom,open=true": { "model": "universia:egout/egout_open_bottom"},
+        "facing=west,half=bottom,open=true": { "model": "universia:egout/egout_open_bottom"},
+        "facing=north,half=top,open=true": { "model": "universia:egout/egout_open_top" },
+        "facing=south,half=top,open=true": { "model": "universia:egout/egout_open_top"},
+        "facing=east,half=top,open=true": { "model": "universia:egout/egout_open_top"},
+        "facing=west,half=top,open=true": { "model": "universia:egout/egout_open_top"}
+    }
+}

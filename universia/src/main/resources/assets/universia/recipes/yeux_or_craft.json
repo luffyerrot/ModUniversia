@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "Y"
+  ],
+  "key": {
+    "Y": 
+	    {
+        "item": "universia:yeux_or"
+        }
+  },
+  "result": {
+    "item": "minecraft:gold_nugget",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:drog_box_weed", "y": 180 },
+    "facing=south": { "model": "universia:drog_box_weed" },
+    "facing=west": { "model": "universia:drog_box_weed", "y": 90 },
+    "facing=east": { "model": "universia:drog_box_weed", "y": 270 }
+  }
+}

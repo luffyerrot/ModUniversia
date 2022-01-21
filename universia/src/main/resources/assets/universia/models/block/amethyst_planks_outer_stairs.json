@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "universia:blocks/amethyst_planks",
+        "top": "universia:blocks/amethyst_planks",
+        "side": "universia:blocks/amethyst_planks"
+    }
+}

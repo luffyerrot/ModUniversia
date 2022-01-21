@@ -1,0 +1,19 @@
+{
+    "parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "particle": "universia:blocks/assemblage_munition",
+        "down": "universia:blocks/assemblage_munition_down",
+        "up": "universia:blocks/assemblage_munition_up",
+        "north": "universia:blocks/assemblage_munition1",
+        "east": "universia:blocks/assemblage_munition2",
+        "south": "universia:blocks/assemblage_munition3",
+        "west": "universia:blocks/assemblage_munition4"
+    }
+}

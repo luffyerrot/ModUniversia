@@ -1,0 +1,7 @@
+{
+	"type": "CTM",
+	"textures": [
+		"blocks/big_oak_br",
+		"./big_oak_br"
+	]
+}

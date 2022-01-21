@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:planche_oignon", "y": 180 },
+    "facing=south": { "model": "universia:planche_oignon" },
+    "facing=west": { "model": "universia:planche_oignon", "y": 90 },
+    "facing=east": { "model": "universia:planche_oignon", "y": 270 }
+  }
+}

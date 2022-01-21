@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F"
+  ],
+  "key": {
+    "F": 
+	    {
+        "item": "universia:foie_argent"
+        }
+  },
+  "result": {
+    "item": "minecraft:iron_nugget",
+    "count": 2
+  }
+}

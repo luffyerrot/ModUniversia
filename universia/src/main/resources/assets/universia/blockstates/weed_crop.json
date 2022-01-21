@@ -1,0 +1,50 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cross"
+  },
+  "variants": {
+    "age": {
+      "0": {
+        "textures": {
+          "cross": "universia:blocks/weed_crop/weed_crop0"
+        }
+      },
+      "1": {
+        "textures": {
+          "cross": "universia:blocks/weed_crop/weed_crop1"
+        }
+      },
+      "2": {
+        "textures": {
+          "cross": "universia:blocks/weed_crop/weed_crop2"
+        }
+      },
+      "3": {
+        "textures": {
+          "cross": "universia:blocks/weed_crop/weed_crop3"
+        }
+      },
+      "4": {
+        "textures": {
+          "cross": "universia:blocks/weed_crop/weed_crop4"
+        }
+      },
+      "5": {
+        "textures": {
+          "cross": "universia:blocks/weed_crop/weed_crop5"
+        }
+      },
+      "6": {
+        "textures": {
+          "cross": "universia:blocks/weed_crop/weed_crop6"
+        }
+      },
+      "7": {
+        "textures": {
+          "cross": "universia:blocks/weed_crop/weed_crop7"
+        }
+      }
+    }
+  }
+}

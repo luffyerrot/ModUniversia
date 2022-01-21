@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:goudron", "y": 180 },
+    "facing=south": { "model": "universia:goudron" },
+    "facing=west": { "model": "universia:goudron", "y": 90 },
+    "facing=east": { "model": "universia:goudron", "y": 270 }
+  }
+}

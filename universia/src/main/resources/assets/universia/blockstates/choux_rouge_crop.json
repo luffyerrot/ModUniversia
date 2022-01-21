@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "age=0": { "model": "universia:choux_rouge/choux_rouge_crop0" },
+        "age=1": { "model": "universia:choux_rouge/choux_rouge_crop1" },
+        "age=2": { "model": "universia:choux_rouge/choux_rouge_crop2" },
+        "age=3": { "model": "universia:choux_rouge/choux_rouge_crop3" },
+        "age=4": { "model": "universia:choux_rouge/choux_rouge_crop4" },
+        "age=5": { "model": "universia:choux_rouge/choux_rouge_crop5" }
+    }
+}

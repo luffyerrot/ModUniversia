@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "PCP",
+    " P "
+  ],
+  "key": {
+    "P": {
+      "item": "universia:bulbe_packet"
+    },
+    "C": {
+      "item": "universia:drog_box"
+    }
+  },
+  "result": {
+    "item": "universia:drog_box_bulbe"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "universia:blocks/saphir_stonebrick",
+        "top": "universia:blocks/saphir_stonebrick",
+        "side": "universia:blocks/saphir_stonebrick"
+    }
+}

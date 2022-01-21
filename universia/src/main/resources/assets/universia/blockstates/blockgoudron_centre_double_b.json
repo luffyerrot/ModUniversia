@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:blockgoudron_centre_double_b", "y": 270 },
+    "facing=south": { "model": "universia:blockgoudron_centre_double_b", "y": 90 },
+    "facing=west": { "model": "universia:blockgoudron_centre_double_b", "y": 180 },
+    "facing=east": { "model": "universia:blockgoudron_centre_double_b"}
+  }
+}

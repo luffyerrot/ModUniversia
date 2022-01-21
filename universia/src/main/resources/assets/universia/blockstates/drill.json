@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:drill", "y": 180 },
+    "facing=south": { "model": "universia:drill" },
+    "facing=west": { "model": "universia:drill", "y": 90 },
+    "facing=east": { "model": "universia:drill", "y": 270 }
+  }
+}

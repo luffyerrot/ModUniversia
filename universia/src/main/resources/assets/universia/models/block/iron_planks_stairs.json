@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "universia:blocks/iron_planks",
+        "top": "universia:blocks/iron_planks",
+        "side": "universia:blocks/iron_planks"
+    }
+}

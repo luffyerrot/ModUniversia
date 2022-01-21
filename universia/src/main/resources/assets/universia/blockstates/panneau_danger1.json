@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:panneau_danger1", "y": 180 },
+    "facing=south": { "model": "universia:panneau_danger1" },
+    "facing=west": { "model": "universia:panneau_danger1", "y": 90 },
+    "facing=east": { "model": "universia:panneau_danger1", "y": 270 }
+  }
+}

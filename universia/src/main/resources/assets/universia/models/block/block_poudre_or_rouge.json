@@ -1,0 +1,6 @@
+{
+  "parent":"block/cube_all",
+  "textures":{
+    "all":"universia:blocks/block_poudre_or_rouge"
+  }
+}

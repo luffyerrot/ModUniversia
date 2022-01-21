@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "universia:blocks/big_oak_br"
+  }
+}

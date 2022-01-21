@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "universia:blocks/or_rouge_planks",
+        "top": "universia:blocks/or_rouge_planks",
+        "side": "universia:blocks/or_rouge_planks"
+    }
+}

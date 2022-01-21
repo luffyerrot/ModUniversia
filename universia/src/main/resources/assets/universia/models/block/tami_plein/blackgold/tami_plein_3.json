@@ -1,0 +1,9 @@
+{
+    "parent": "universia:block/tami_plein/tami_plein_3",
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "0": "minecraft:blocks/planks_oak",
+        "1": "universia:blocks/filet_tami",
+        "2": "universia:blocks/block_poudre_or_noire"
+    }
+}

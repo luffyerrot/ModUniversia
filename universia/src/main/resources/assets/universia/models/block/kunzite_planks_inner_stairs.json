@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "universia:blocks/kunzite_planks",
+        "top": "universia:blocks/kunzite_planks",
+        "side": "universia:blocks/kunzite_planks"
+    }
+}

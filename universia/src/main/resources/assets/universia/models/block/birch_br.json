@@ -1,0 +1,15 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end":"blocks/log_birch_top",
+    "side": "universia:blocks/birch_br"
+  },
+  "ctm": {
+    "model": { "model": "cube" },
+    "face": "universia:ctm/birch_br.cf",
+    "overrides":{
+      "UP":"universia:ctm/birch_br_top.cf",
+      "DOWN":"universia:ctm/birch_br_top.cf"
+    }
+  }
+}

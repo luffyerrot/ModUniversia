@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "universia:rubis_planks_half_slab" },
+        "half=top,variant=default": { "model": "universia:rubis_planks_upper_slab" }
+    }
+}

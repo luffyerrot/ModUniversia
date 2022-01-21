@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "universia:rubis_stonebrick_half_slab" },
+        "half=top,variant=default": { "model": "universia:rubis_stonebrick_upper_slab" }
+    }
+}

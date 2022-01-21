@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "CBC",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "universia:coca_packet"
+    },
+    "B": {
+      "item": "universia:drog_box"
+    }
+  },
+  "result": {
+    "item": "universia:drog_box_coca"
+  }
+}

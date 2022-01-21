@@ -1,0 +1,31 @@
+{
+  "block.imprimante.on":{
+    "category": "block",
+    "subtitle": "block.imprimante.on",
+    "sounds": [{ "name": "universia:block/imprimante/on", "stream": true}]
+  },
+
+  "block.imprimante.end":{
+    "category": "block",
+    "subtitle": "block.imprimante.end",
+    "sounds": [{ "name": "universia:block/imprimante/end", "stream": true}]
+  },
+
+  "item.taser.taser1":{
+    "category": "player",
+    "subtitle": "item.taser.taser1",
+    "sounds": [{ "name": "universia:item/taser/taser1", "stream": true}]
+  },
+
+  "item.taser.taser2":{
+    "category": "player",
+    "subtitle": "item.taser.taser2",
+    "sounds": [{ "name": "universia:item/taser/taser2", "stream": true}]
+  },
+
+  "item.taser.taser3":{
+    "category": "player",
+    "subtitle": "item.taser.taser3",
+    "sounds": [{ "name": "universia:item/taser/taser3", "stream": true}]
+  }
+}

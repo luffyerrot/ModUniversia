@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:table_chimie", "y": 180 },
+    "facing=south": { "model": "universia:table_chimie" },
+    "facing=west": { "model": "universia:table_chimie", "y": 90 },
+    "facing=east": { "model": "universia:table_chimie", "y": 270 }
+  }
+}

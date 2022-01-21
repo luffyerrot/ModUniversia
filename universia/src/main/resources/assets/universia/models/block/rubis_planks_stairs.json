@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "universia:blocks/rubis_planks",
+        "top": "universia:blocks/rubis_planks",
+        "side": "universia:blocks/rubis_planks"
+    }
+}

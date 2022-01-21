@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:planche_poireau", "y": 180 },
+    "facing=south": { "model": "universia:planche_poireau" },
+    "facing=west": { "model": "universia:planche_poireau", "y": 90 },
+    "facing=east": { "model": "universia:planche_poireau", "y": 270 }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:sechoir", "y": 270 },
+    "facing=south": { "model": "universia:sechoir" , "y": 90},
+    "facing=west": { "model": "universia:sechoir", "y": 180 },
+    "facing=east": { "model": "universia:sechoir" }
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "particle": "universia:blocks/assemblage_arme",
+        "down": "universia:blocks/assemblage_arme_down",
+        "up": "universia:blocks/assemblage_arme_up",
+        "north": "universia:blocks/assemblage_arme1",
+        "east": "universia:blocks/assemblage_arme2",
+        "south": "universia:blocks/assemblage_arme3",
+        "west": "universia:blocks/assemblage_arme4"
+    }
+}

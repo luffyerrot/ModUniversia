@@ -1,0 +1,15 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end":"blocks/log_jungle_top",
+    "side": "universia:blocks/jungle_br"
+  },
+  "ctm": {
+    "model": { "model": "cube" },
+    "face": "universia:ctm/jungle_br.cf",
+    "overrides":{
+      "UP":"universia:ctm/jungle_br_top.cf",
+      "DOWN":"universia:ctm/jungle_br_top.cf"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "universia:goudron_double_semi_diag_coin_bj", "y": 180 },
+    "facing=south": { "model": "universia:goudron_double_semi_diag_coin_bj" },
+    "facing=west": { "model": "universia:goudron_double_semi_diag_coin_bj", "y": 90 },
+    "facing=east": { "model": "universia:goudron_double_semi_diag_coin_bj", "y": 270 }
+  }
+}

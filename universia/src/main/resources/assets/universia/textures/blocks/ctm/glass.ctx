@@ -1,0 +1,8 @@
+{
+	"type": "CTM",
+	"textures": [
+		"blocks/glass",
+		"./glass"
+	],
+	"layer":"CUTOUT"
+}

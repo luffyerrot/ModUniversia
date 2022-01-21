@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F"
+  ],
+  "key": {
+    "F": 
+	    {
+        "item": "universia:foie_diamand"
+        }
+  },
+  "result": {
+    "item": "universia:diamond_nugget",
+    "count": 2
+  }
+}

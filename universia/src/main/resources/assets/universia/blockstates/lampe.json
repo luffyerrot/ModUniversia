@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=up":    { "model": "universia:lampe"},
+    "facing=down":  { "model": "universia:lampe", "x": 180 },
+    "facing=east":  { "model": "universia:lampe", "x": 90, "y": 90 },
+    "facing=west":  { "model": "universia:lampe", "x": 90, "y": 270 },
+    "facing=south": { "model": "universia:lampe", "x": 90, "y": 180 },
+    "facing=north": { "model": "universia:lampe", "x": 90 }
+  }
+}

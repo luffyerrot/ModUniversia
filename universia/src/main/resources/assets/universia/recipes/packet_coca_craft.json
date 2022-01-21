@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CBC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "universia:papier_plastique"
+    },
+    "B": {
+      "item": "universia:poudre_coca"
+    }
+  },
+  "result": {
+    "item": "universia:coca_packet"
+  }
+}

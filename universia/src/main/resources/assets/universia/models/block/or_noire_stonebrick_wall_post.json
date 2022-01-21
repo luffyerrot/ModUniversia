@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_post",
+    "textures": {
+        "wall": "universia:blocks/or_noire_stonebrick"
+    }
+}

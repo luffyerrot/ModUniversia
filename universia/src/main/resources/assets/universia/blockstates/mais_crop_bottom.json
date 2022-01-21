@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "age=0": { "model": "universia:mais/mais_bottom_stage0" },
+        "age=1": { "model": "universia:mais/mais_bottom_stage1" },
+        "age=2": { "model": "universia:mais/mais_bottom_stage2" },
+        "age=3": { "model": "universia:mais/mais_bottom_stage3" },
+        "age=4": { "model": "universia:mais/mais_bottom_stage4" },
+        "age=5": { "model": "universia:mais/mais_bottom_stage5" },
+        "age=6": { "model": "universia:mais/mais_bottom_stage6" },
+        "age=7": { "model": "universia:mais/mais_bottom_stage7" },
+        "age=8": { "model": "universia:mais/mais_bottom_stage8" },
+        "age=9": { "model": "universia:mais/mais_bottom_stage9" }
+    }
+}
